@@ -16,4 +16,5 @@ A simple command-line tool to assist with Ethernet IP configuration and diagnost
 ## Usage
 
 ```bash
+pip install -r requirements.txt
 python3 ethernet_ip_tool.py
