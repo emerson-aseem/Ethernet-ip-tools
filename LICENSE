@@ -1,0 +1,13 @@
+
+---
+
+### 🚀 Next: Push to GitHub
+
+You can now:
+
+```bash
+git init
+git add .
+git commit -m "Initial EtherNet/IP Tool"
+gh repo create ethernet-ip-tool --public --source=. --remote=origin
+git push -u origin master
