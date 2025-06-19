@@ -1,1 +1,3 @@
 pycomm3>=1.1.3
+scapy
+rich       # For colored CLI output
